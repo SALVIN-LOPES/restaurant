@@ -1,0 +1,9 @@
+/* header css */
+.headerMargin{
+    margin-bottom:64px;
+}
+@media screen and (max-width: 768px){
+    .headerMargin{
+        margin-bottom:56px;
+    }
+}
